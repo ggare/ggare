@@ -1,9 +1,5 @@
-## Hi there 👋
+## Hi there I`m Danil👋
 
-<!--
-**ggare/ggare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on game development
 - 🌱 I’m currently learning new languages like C, C++, and Java
@@ -11,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: d.kudinov@innopolis.university
 - 😄 Pronouns: Helicopter
 - ⚡ Fun fact: i like astronomy
--->
