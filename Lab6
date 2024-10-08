@@ -86,4 +86,17 @@ public class Main {
 }
 
 6.
+import java.util.Scanner;
 
+public class Main {
+    public static double farengeite_to_celsiy(double a) {
+        return (5.0/9.0)*(a - 32);
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        double a = scanner.nextDouble();
+        System.out.println(farengeite_to_celsiy(a));
+        scanner.close();
+    }
+}
