@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-    public static double calculator(double a, char znak ,int b){
+    public static float calculator(int a, char znak ,int b){
         if(znak == '+'){
             return a+b;
         } else if(znak == '-'){
@@ -21,7 +21,7 @@ public class Calculator {
         int a = scanner.nextInt();
         char znak = scanner.next().charAt(0);
         int b = scanner.nextInt();
-        double ans = calculator(a,znak,b);
+        float ans = calculator(a,znak,b);
         System.out.println(ans);
     }
 }
